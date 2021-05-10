@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	int x, y, z;
+	int x;
 
 	x = 0;
 
